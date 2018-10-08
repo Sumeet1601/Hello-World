@@ -2,6 +2,7 @@
 #include<conio.h>
 void main()
 {  clrscr();
-   cout<<"Hello World";
+   cout<<"This is a basic c++ program"; 
+   cout<<"\n Hello World";
    getch();
    }
